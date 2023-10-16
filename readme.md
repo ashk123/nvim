@@ -1,5 +1,9 @@
+## my personal nvim config
 
-# Nerd Fonts
+It's just a bunch of files that i used to use in my vim configuration ^^
+
+
+# Fonts links
 
 This is an archived font from a Nerd Fonts release.
 
